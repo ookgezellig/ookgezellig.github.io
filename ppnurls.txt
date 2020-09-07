@@ -1,382 +1,384 @@
-https://resolver.kb.nl/resolve?urn=PPN:310919347
-https://resolver.kb.nl/resolve?urn=PPN:310921546
-https://resolver.kb.nl/resolve?urn=PPN:310925258
-https://resolver.kb.nl/resolve?urn=PPN:389943746
-https://resolver.kb.nl/resolve?urn=PPN:389945668
-https://resolver.kb.nl/resolve?urn=PPN:389945951
-https://resolver.kb.nl/resolve?urn=PPN:389947105
-https://resolver.kb.nl/resolve?urn=PPN:389948586
-https://resolver.kb.nl/resolve?urn=PPN:389948802
-https://resolver.kb.nl/resolve?urn=PPN:389949183
-https://resolver.kb.nl/resolve?urn=PPN:389949191
-https://resolver.kb.nl/resolve?urn=PPN:389949205
-https://resolver.kb.nl/resolve?urn=PPN:389949213
-https://resolver.kb.nl/resolve?urn=PPN:389949485
-https://resolver.kb.nl/resolve?urn=PPN:389949493
-https://resolver.kb.nl/resolve?urn=PPN:389949752
-https://resolver.kb.nl/resolve?urn=PPN:389950688
-https://resolver.kb.nl/resolve?urn=PPN:389951544
-https://resolver.kb.nl/resolve?urn=PPN:389951757
-https://resolver.kb.nl/resolve?urn=PPN:389952214
-https://resolver.kb.nl/resolve?urn=PPN:389952222
-https://resolver.kb.nl/resolve?urn=PPN:389952249
-https://resolver.kb.nl/resolve?urn=PPN:389952397
-https://resolver.kb.nl/resolve?urn=PPN:389952451
-https://resolver.kb.nl/resolve?urn=PPN:389952478
-https://resolver.kb.nl/resolve?urn=PPN:389952753
-https://resolver.kb.nl/resolve?urn=PPN:389953652
-https://resolver.kb.nl/resolve?urn=PPN:389954047
-https://resolver.kb.nl/resolve?urn=PPN:389954063
-https://resolver.kb.nl/resolve?urn=PPN:389954497
-https://resolver.kb.nl/resolve?urn=PPN:389955205
-https://resolver.kb.nl/resolve?urn=PPN:389955213
-https://resolver.kb.nl/resolve?urn=PPN:389955221
-https://resolver.kb.nl/resolve?urn=PPN:389955892
-https://resolver.kb.nl/resolve?urn=PPN:389955906
-https://resolver.kb.nl/resolve?urn=PPN:389956864
-https://resolver.kb.nl/resolve?urn=PPN:389957143
-https://resolver.kb.nl/resolve?urn=PPN:389957151
-https://resolver.kb.nl/resolve?urn=PPN:389957747
-https://resolver.kb.nl/resolve?urn=PPN:389957755
-https://resolver.kb.nl/resolve?urn=PPN:389957763
-https://resolver.kb.nl/resolve?urn=PPN:389958603
-https://resolver.kb.nl/resolve?urn=PPN:389959863
-https://resolver.kb.nl/resolve?urn=PPN:389959871
-https://resolver.kb.nl/resolve?urn=PPN:389960586
-https://resolver.kb.nl/resolve?urn=PPN:389960594
-https://resolver.kb.nl/resolve?urn=PPN:389961868
-https://resolver.kb.nl/resolve?urn=PPN:389961876
-https://resolver.kb.nl/resolve?urn=PPN:389961884
-https://resolver.kb.nl/resolve?urn=PPN:389961892
-https://resolver.kb.nl/resolve?urn=PPN:389961906
-https://resolver.kb.nl/resolve?urn=PPN:389962074
-https://resolver.kb.nl/resolve?urn=PPN:389963089
-https://resolver.kb.nl/resolve?urn=PPN:389963097
-https://resolver.kb.nl/resolve?urn=PPN:389963100
-https://resolver.kb.nl/resolve?urn=PPN:389963119
-https://resolver.kb.nl/resolve?urn=PPN:389964468
-https://resolver.kb.nl/resolve?urn=PPN:389964476
-https://resolver.kb.nl/resolve?urn=PPN:389964484
-https://resolver.kb.nl/resolve?urn=PPN:389965510
-https://resolver.kb.nl/resolve?urn=PPN:389965529
-https://resolver.kb.nl/resolve?urn=PPN:389965537
-https://resolver.kb.nl/resolve?urn=PPN:389965545
-https://resolver.kb.nl/resolve?urn=PPN:389965898
-https://resolver.kb.nl/resolve?urn=PPN:389966649
-https://resolver.kb.nl/resolve?urn=PPN:389966657
-https://resolver.kb.nl/resolve?urn=PPN:389967874
-https://resolver.kb.nl/resolve?urn=PPN:389967882
-https://resolver.kb.nl/resolve?urn=PPN:389967890
-https://resolver.kb.nl/resolve?urn=PPN:389967904
-https://resolver.kb.nl/resolve?urn=PPN:389967912
-https://resolver.kb.nl/resolve?urn=PPN:389967939
-https://resolver.kb.nl/resolve?urn=PPN:389967947
-https://resolver.kb.nl/resolve?urn=PPN:389967963
-https://resolver.kb.nl/resolve?urn=PPN:389967971
-https://resolver.kb.nl/resolve?urn=PPN:389968897
-https://resolver.kb.nl/resolve?urn=PPN:389968900
-https://resolver.kb.nl/resolve?urn=PPN:389968935
-https://resolver.kb.nl/resolve?urn=PPN:389968943
-https://resolver.kb.nl/resolve?urn=PPN:389970611
-https://resolver.kb.nl/resolve?urn=PPN:389970638
-https://resolver.kb.nl/resolve?urn=PPN:389970654
-https://resolver.kb.nl/resolve?urn=PPN:389970972
-https://resolver.kb.nl/resolve?urn=PPN:389970999
-https://resolver.kb.nl/resolve?urn=PPN:389971731
-https://resolver.kb.nl/resolve?urn=PPN:389971774
-https://resolver.kb.nl/resolve?urn=PPN:389972614
-https://resolver.kb.nl/resolve?urn=PPN:389973289
-https://resolver.kb.nl/resolve?urn=PPN:389973629
-https://resolver.kb.nl/resolve?urn=PPN:389973637
-https://resolver.kb.nl/resolve?urn=PPN:389974307
-https://resolver.kb.nl/resolve?urn=PPN:389974315
-https://resolver.kb.nl/resolve?urn=PPN:389974323
-https://resolver.kb.nl/resolve?urn=PPN:389974579
-https://resolver.kb.nl/resolve?urn=PPN:389975362
-https://resolver.kb.nl/resolve?urn=PPN:389975680
-https://resolver.kb.nl/resolve?urn=PPN:389978574
-https://resolver.kb.nl/resolve?urn=PPN:389978582
-https://resolver.kb.nl/resolve?urn=PPN:389982857
-https://resolver.kb.nl/resolve?urn=PPN:389982865
-https://resolver.kb.nl/resolve?urn=PPN:389983500
-https://resolver.kb.nl/resolve?urn=PPN:389983519
-https://resolver.kb.nl/resolve?urn=PPN:389985538
-https://resolver.kb.nl/resolve?urn=PPN:389986178
-https://resolver.kb.nl/resolve?urn=PPN:389986186
-https://resolver.kb.nl/resolve?urn=PPN:389987239
-https://resolver.kb.nl/resolve?urn=PPN:389987247
-https://resolver.kb.nl/resolve?urn=PPN:389987255
-https://resolver.kb.nl/resolve?urn=PPN:389987263
-https://resolver.kb.nl/resolve?urn=PPN:389989436
-https://resolver.kb.nl/resolve?urn=PPN:389989444
-https://resolver.kb.nl/resolve?urn=PPN:389990841
-https://resolver.kb.nl/resolve?urn=PPN:389990868
-https://resolver.kb.nl/resolve?urn=PPN:389990876
-https://resolver.kb.nl/resolve?urn=PPN:389990884
-https://resolver.kb.nl/resolve?urn=PPN:389995622
-https://resolver.kb.nl/resolve?urn=PPN:389999164
-https://resolver.kb.nl/resolve?urn=PPN:389999172
-https://resolver.kb.nl/resolve?urn=PPN:389999180
-https://resolver.kb.nl/resolve?urn=PPN:390001023
-https://resolver.kb.nl/resolve?urn=PPN:390001031
-https://resolver.kb.nl/resolve?urn=PPN:390002828
-https://resolver.kb.nl/resolve?urn=PPN:390002836
-https://resolver.kb.nl/resolve?urn=PPN:390004308
-https://resolver.kb.nl/resolve?urn=PPN:390004316
-https://resolver.kb.nl/resolve?urn=PPN:390004324
-https://resolver.kb.nl/resolve?urn=PPN:390004901
-https://resolver.kb.nl/resolve?urn=PPN:390006505
-https://resolver.kb.nl/resolve?urn=PPN:390006513
-https://resolver.kb.nl/resolve?urn=PPN:390006521
-https://resolver.kb.nl/resolve?urn=PPN:390006548
-https://resolver.kb.nl/resolve?urn=PPN:390008036
-https://resolver.kb.nl/resolve?urn=PPN:390008044
-https://resolver.kb.nl/resolve?urn=PPN:390008052
-https://resolver.kb.nl/resolve?urn=PPN:390008060
-https://resolver.kb.nl/resolve?urn=PPN:390008087
-https://resolver.kb.nl/resolve?urn=PPN:390009709
-https://resolver.kb.nl/resolve?urn=PPN:390009717
-https://resolver.kb.nl/resolve?urn=PPN:390009725
-https://resolver.kb.nl/resolve?urn=PPN:390009733
-https://resolver.kb.nl/resolve?urn=PPN:390009741
-https://resolver.kb.nl/resolve?urn=PPN:390009784
-https://resolver.kb.nl/resolve?urn=PPN:390012238
-https://resolver.kb.nl/resolve?urn=PPN:390015571
-https://resolver.kb.nl/resolve?urn=PPN:390018953
-https://resolver.kb.nl/resolve?urn=PPN:390021334
-https://resolver.kb.nl/resolve?urn=PPN:390021342
-https://resolver.kb.nl/resolve?urn=PPN:390021350
-https://resolver.kb.nl/resolve?urn=PPN:390021369
-https://resolver.kb.nl/resolve?urn=PPN:390022594
-https://resolver.kb.nl/resolve?urn=PPN:390022608
-https://resolver.kb.nl/resolve?urn=PPN:390022616
-https://resolver.kb.nl/resolve?urn=PPN:390022837
-https://resolver.kb.nl/resolve?urn=PPN:390024619
-https://resolver.kb.nl/resolve?urn=PPN:390024627
-https://resolver.kb.nl/resolve?urn=PPN:390024635
-https://resolver.kb.nl/resolve?urn=PPN:390027278
-https://resolver.kb.nl/resolve?urn=PPN:390027286
-https://resolver.kb.nl/resolve?urn=PPN:390027294
-https://resolver.kb.nl/resolve?urn=PPN:390027308
-https://resolver.kb.nl/resolve?urn=PPN:390028959
-https://resolver.kb.nl/resolve?urn=PPN:390028967
-https://resolver.kb.nl/resolve?urn=PPN:390028975
-https://resolver.kb.nl/resolve?urn=PPN:390031593
-https://resolver.kb.nl/resolve?urn=PPN:390034126
-https://resolver.kb.nl/resolve?urn=PPN:390035688
-https://resolver.kb.nl/resolve?urn=PPN:390035696
-https://resolver.kb.nl/resolve?urn=PPN:390035718
-https://resolver.kb.nl/resolve?urn=PPN:390038733
-https://resolver.kb.nl/resolve?urn=PPN:390038768
-https://resolver.kb.nl/resolve?urn=PPN:390038776
-https://resolver.kb.nl/resolve?urn=PPN:390038784
-https://resolver.kb.nl/resolve?urn=PPN:390038792
-https://resolver.kb.nl/resolve?urn=PPN:390038806
-https://resolver.kb.nl/resolve?urn=PPN:390040614
-https://resolver.kb.nl/resolve?urn=PPN:390040622
-https://resolver.kb.nl/resolve?urn=PPN:390040630
-https://resolver.kb.nl/resolve?urn=PPN:390040649
-https://resolver.kb.nl/resolve?urn=PPN:390041920
-https://resolver.kb.nl/resolve?urn=PPN:390043680
-https://resolver.kb.nl/resolve?urn=PPN:390043699
-https://resolver.kb.nl/resolve?urn=PPN:390045160
-https://resolver.kb.nl/resolve?urn=PPN:390045179
-https://resolver.kb.nl/resolve?urn=PPN:390045187
-https://resolver.kb.nl/resolve?urn=PPN:390046973
-https://resolver.kb.nl/resolve?urn=PPN:390046981
-https://resolver.kb.nl/resolve?urn=PPN:390047783
-https://resolver.kb.nl/resolve?urn=PPN:390049948
-https://resolver.kb.nl/resolve?urn=PPN:390049956
-https://resolver.kb.nl/resolve?urn=PPN:390051233
-https://resolver.kb.nl/resolve?urn=PPN:390052566
-https://resolver.kb.nl/resolve?urn=PPN:390052574
-https://resolver.kb.nl/resolve?urn=PPN:390054798
-https://resolver.kb.nl/resolve?urn=PPN:390056359
-https://resolver.kb.nl/resolve?urn=PPN:390057568
-https://resolver.kb.nl/resolve?urn=PPN:390057576
-https://resolver.kb.nl/resolve?urn=PPN:390057584
-https://resolver.kb.nl/resolve?urn=PPN:390057592
-https://resolver.kb.nl/resolve?urn=PPN:390071897
-https://resolver.kb.nl/resolve?urn=PPN:390071986
-https://resolver.kb.nl/resolve?urn=PPN:390072036
-https://resolver.kb.nl/resolve?urn=PPN:390072699
-https://resolver.kb.nl/resolve?urn=PPN:390095273
-https://resolver.kb.nl/resolve?urn=PPN:390095931
-https://resolver.kb.nl/resolve?urn=PPN:390115045
-https://resolver.kb.nl/resolve?urn=PPN:390122513
-https://resolver.kb.nl/resolve?urn=PPN:390122521
-https://resolver.kb.nl/resolve?urn=PPN:390124281
-https://resolver.kb.nl/resolve?urn=PPN:390124354
-https://resolver.kb.nl/resolve?urn=PPN:390125938
-https://resolver.kb.nl/resolve?urn=PPN:390125946
-https://resolver.kb.nl/resolve?urn=PPN:390125954
-https://resolver.kb.nl/resolve?urn=PPN:390125962
-https://resolver.kb.nl/resolve?urn=PPN:390126918
-https://resolver.kb.nl/resolve?urn=PPN:390126926
-https://resolver.kb.nl/resolve?urn=PPN:390128031
-https://resolver.kb.nl/resolve?urn=PPN:390130451
-https://resolver.kb.nl/resolve?urn=PPN:390131547
-https://resolver.kb.nl/resolve?urn=PPN:390131555
-https://resolver.kb.nl/resolve?urn=PPN:390132772
-https://resolver.kb.nl/resolve?urn=PPN:390134031
-https://resolver.kb.nl/resolve?urn=PPN:390134961
-https://resolver.kb.nl/resolve?urn=PPN:390134988
-https://resolver.kb.nl/resolve?urn=PPN:390135569
-https://resolver.kb.nl/resolve?urn=PPN:390136654
-https://resolver.kb.nl/resolve?urn=PPN:390136662
-https://resolver.kb.nl/resolve?urn=PPN:390136689
-https://resolver.kb.nl/resolve?urn=PPN:390139688
-https://resolver.kb.nl/resolve?urn=PPN:390139785
-https://resolver.kb.nl/resolve?urn=PPN:390140546
-https://resolver.kb.nl/resolve?urn=PPN:390140554
-https://resolver.kb.nl/resolve?urn=PPN:390141186
-https://resolver.kb.nl/resolve?urn=PPN:390143332
-https://resolver.kb.nl/resolve?urn=PPN:390147184
-https://resolver.kb.nl/resolve?urn=PPN:390147923
-https://resolver.kb.nl/resolve?urn=PPN:390148334
-https://resolver.kb.nl/resolve?urn=PPN:390149268
-https://resolver.kb.nl/resolve?urn=PPN:390149349
-https://resolver.kb.nl/resolve?urn=PPN:390150509
-https://resolver.kb.nl/resolve?urn=PPN:390152307
-https://resolver.kb.nl/resolve?urn=PPN:390154350
-https://resolver.kb.nl/resolve?urn=PPN:390155004
-https://resolver.kb.nl/resolve?urn=PPN:390155012
-https://resolver.kb.nl/resolve?urn=PPN:390157775
-https://resolver.kb.nl/resolve?urn=PPN:390157783
-https://resolver.kb.nl/resolve?urn=PPN:390165417
-https://resolver.kb.nl/resolve?urn=PPN:390167096
-https://resolver.kb.nl/resolve?urn=PPN:390168025
-https://resolver.kb.nl/resolve?urn=PPN:390168890
-https://resolver.kb.nl/resolve?urn=PPN:390170666
-https://resolver.kb.nl/resolve?urn=PPN:390171018
-https://resolver.kb.nl/resolve?urn=PPN:390172154
-https://resolver.kb.nl/resolve?urn=PPN:390172162
-https://resolver.kb.nl/resolve?urn=PPN:390173231
-https://resolver.kb.nl/resolve?urn=PPN:390175528
-https://resolver.kb.nl/resolve?urn=PPN:390176141
-https://resolver.kb.nl/resolve?urn=PPN:390177784
-https://resolver.kb.nl/resolve?urn=PPN:390179507
-https://resolver.kb.nl/resolve?urn=PPN:390179515
-https://resolver.kb.nl/resolve?urn=PPN:390184780
-https://resolver.kb.nl/resolve?urn=PPN:390187410
-https://resolver.kb.nl/resolve?urn=PPN:390190209
-https://resolver.kb.nl/resolve?urn=PPN:390190217
-https://resolver.kb.nl/resolve?urn=PPN:390192074
-https://resolver.kb.nl/resolve?urn=PPN:390193607
-https://resolver.kb.nl/resolve?urn=PPN:390196053
-https://resolver.kb.nl/resolve?urn=PPN:390196061
-https://resolver.kb.nl/resolve?urn=PPN:390199230
-https://resolver.kb.nl/resolve?urn=PPN:390199249
-https://resolver.kb.nl/resolve?urn=PPN:390199257
-https://resolver.kb.nl/resolve?urn=PPN:390200956
-https://resolver.kb.nl/resolve?urn=PPN:390247790
-https://resolver.kb.nl/resolve?urn=PPN:390249424
-https://resolver.kb.nl/resolve?urn=PPN:390250767
-https://resolver.kb.nl/resolve?urn=PPN:390332984
-https://resolver.kb.nl/resolve?urn=PPN:390332992
-https://resolver.kb.nl/resolve?urn=PPN:390336688
-https://resolver.kb.nl/resolve?urn=PPN:390339083
-https://resolver.kb.nl/resolve?urn=PPN:390340731
-https://resolver.kb.nl/resolve?urn=PPN:390341134
-https://resolver.kb.nl/resolve?urn=PPN:390346055
-https://resolver.kb.nl/resolve?urn=PPN:390346063
-https://resolver.kb.nl/resolve?urn=PPN:390346071
-https://resolver.kb.nl/resolve?urn=PPN:390348953
-https://resolver.kb.nl/resolve?urn=PPN:390350567
-https://resolver.kb.nl/resolve?urn=PPN:390352128
-https://resolver.kb.nl/resolve?urn=PPN:390354163
-https://resolver.kb.nl/resolve?urn=PPN:390354252
-https://resolver.kb.nl/resolve?urn=PPN:390356026
-https://resolver.kb.nl/resolve?urn=PPN:390359068
-https://resolver.kb.nl/resolve?urn=PPN:390360376
-https://resolver.kb.nl/resolve?urn=PPN:390362948
-https://resolver.kb.nl/resolve?urn=PPN:390362956
-https://resolver.kb.nl/resolve?urn=PPN:390364029
-https://resolver.kb.nl/resolve?urn=PPN:390364037
-https://resolver.kb.nl/resolve?urn=PPN:390369225
-https://resolver.kb.nl/resolve?urn=PPN:390369233
-https://resolver.kb.nl/resolve?urn=PPN:390370169
-https://resolver.kb.nl/resolve?urn=PPN:390370177
-https://resolver.kb.nl/resolve?urn=PPN:390370185
-https://resolver.kb.nl/resolve?urn=PPN:390371661
-https://resolver.kb.nl/resolve?urn=PPN:390373508
-https://resolver.kb.nl/resolve?urn=PPN:390373516
-https://resolver.kb.nl/resolve?urn=PPN:390376493
-https://resolver.kb.nl/resolve?urn=PPN:390376507
-https://resolver.kb.nl/resolve?urn=PPN:390432806
-https://resolver.kb.nl/resolve?urn=PPN:390434388
-https://resolver.kb.nl/resolve?urn=PPN:390434396
-https://resolver.kb.nl/resolve?urn=PPN:390436399
-https://resolver.kb.nl/resolve?urn=PPN:390438227
-https://resolver.kb.nl/resolve?urn=PPN:390440647
-https://resolver.kb.nl/resolve?urn=PPN:390446661
-https://resolver.kb.nl/resolve?urn=PPN:390454419
-https://resolver.kb.nl/resolve?urn=PPN:390454435
-https://resolver.kb.nl/resolve?urn=PPN:390455490
-https://resolver.kb.nl/resolve?urn=PPN:390456055
-https://resolver.kb.nl/resolve?urn=PPN:390458058
-https://resolver.kb.nl/resolve?urn=PPN:390458066
-https://resolver.kb.nl/resolve?urn=PPN:390458902
-https://resolver.kb.nl/resolve?urn=PPN:390460060
-https://resolver.kb.nl/resolve?urn=PPN:390460079
-https://resolver.kb.nl/resolve?urn=PPN:390461903
-https://resolver.kb.nl/resolve?urn=PPN:390464279
-https://resolver.kb.nl/resolve?urn=PPN:390466026
-https://resolver.kb.nl/resolve?urn=PPN:390470058
-https://resolver.kb.nl/resolve?urn=PPN:390470783
-https://resolver.kb.nl/resolve?urn=PPN:390474630
-https://resolver.kb.nl/resolve?urn=PPN:390474894
-https://resolver.kb.nl/resolve?urn=PPN:390475300
-https://resolver.kb.nl/resolve?urn=PPN:390477508
-https://resolver.kb.nl/resolve?urn=PPN:390478148
-https://resolver.kb.nl/resolve?urn=PPN:390478156
-https://resolver.kb.nl/resolve?urn=PPN:390478164
-https://resolver.kb.nl/resolve?urn=PPN:390478717
-https://resolver.kb.nl/resolve?urn=PPN:390478725
-https://resolver.kb.nl/resolve?urn=PPN:390479160
-https://resolver.kb.nl/resolve?urn=PPN:390479802
-https://resolver.kb.nl/resolve?urn=PPN:390480487
-https://resolver.kb.nl/resolve?urn=PPN:390480584
-https://resolver.kb.nl/resolve?urn=PPN:390481084
-https://resolver.kb.nl/resolve?urn=PPN:31092197X
-https://resolver.kb.nl/resolve?urn=PPN:31092572X
-https://resolver.kb.nl/resolve?urn=PPN:38995067X
-https://resolver.kb.nl/resolve?urn=PPN:38995649X
-https://resolver.kb.nl/resolve?urn=PPN:38996185X
-https://resolver.kb.nl/resolve?urn=PPN:38996588X
-https://resolver.kb.nl/resolve?urn=PPN:38996896X
-https://resolver.kb.nl/resolve?urn=PPN:38997062X
-https://resolver.kb.nl/resolve?urn=PPN:38997577X
-https://resolver.kb.nl/resolve?urn=PPN:38998132X
-https://resolver.kb.nl/resolve?urn=PPN:38998552X
-https://resolver.kb.nl/resolve?urn=PPN:38998616X
-https://resolver.kb.nl/resolve?urn=PPN:38998941X
-https://resolver.kb.nl/resolve?urn=PPN:38999085X
-https://resolver.kb.nl/resolve?urn=PPN:39000281X
-https://resolver.kb.nl/resolve?urn=PPN:39000653X
-https://resolver.kb.nl/resolve?urn=PPN:39000801X
-https://resolver.kb.nl/resolve?urn=PPN:39002726X
-https://resolver.kb.nl/resolve?urn=PPN:39003570X
-https://resolver.kb.nl/resolve?urn=PPN:39003875X
-https://resolver.kb.nl/resolve?urn=PPN:39004699X
-https://resolver.kb.nl/resolve?urn=PPN:39004993X
-https://resolver.kb.nl/resolve?urn=PPN:39005478X
-https://resolver.kb.nl/resolve?urn=PPN:39009563X
-https://resolver.kb.nl/resolve?urn=PPN:39012429X
-https://resolver.kb.nl/resolve?urn=PPN:39012690X
-https://resolver.kb.nl/resolve?urn=PPN:39012804X
-https://resolver.kb.nl/resolve?urn=PPN:39013497X
-https://resolver.kb.nl/resolve?urn=PPN:39014228X
-https://resolver.kb.nl/resolve?urn=PPN:39016710X
-https://resolver.kb.nl/resolve?urn=PPN:39017324X
-https://resolver.kb.nl/resolve?urn=PPN:39018103X
-https://resolver.kb.nl/resolve?urn=PPN:39033300X
-https://resolver.kb.nl/resolve?urn=PPN:39033782X
-https://resolver.kb.nl/resolve?urn=PPN:39034608X
-https://resolver.kb.nl/resolve?urn=PPN:39035905X
-https://resolver.kb.nl/resolve?urn=PPN:39036486X
-https://resolver.kb.nl/resolve?urn=PPN:39036682X
-https://resolver.kb.nl/resolve?urn=PPN:39043311X
-https://resolver.kb.nl/resolve?urn=PPN:39043437X
-https://resolver.kb.nl/resolve?urn=PPN:39043440X
-https://resolver.kb.nl/resolve?urn=PPN:39044667X
+<ul>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:310919347">https://resolver.kb.nl/resolve?urn=PPN:310919347</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:310921546">https://resolver.kb.nl/resolve?urn=PPN:310921546</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:310925258">https://resolver.kb.nl/resolve?urn=PPN:310925258</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389943746">https://resolver.kb.nl/resolve?urn=PPN:389943746</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389945668">https://resolver.kb.nl/resolve?urn=PPN:389945668</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389945951">https://resolver.kb.nl/resolve?urn=PPN:389945951</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389947105">https://resolver.kb.nl/resolve?urn=PPN:389947105</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389948586">https://resolver.kb.nl/resolve?urn=PPN:389948586</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389948802">https://resolver.kb.nl/resolve?urn=PPN:389948802</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389949183">https://resolver.kb.nl/resolve?urn=PPN:389949183</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389949191">https://resolver.kb.nl/resolve?urn=PPN:389949191</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389949205">https://resolver.kb.nl/resolve?urn=PPN:389949205</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389949213">https://resolver.kb.nl/resolve?urn=PPN:389949213</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389949485">https://resolver.kb.nl/resolve?urn=PPN:389949485</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389949493">https://resolver.kb.nl/resolve?urn=PPN:389949493</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389949752">https://resolver.kb.nl/resolve?urn=PPN:389949752</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389950688">https://resolver.kb.nl/resolve?urn=PPN:389950688</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389951544">https://resolver.kb.nl/resolve?urn=PPN:389951544</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389951757">https://resolver.kb.nl/resolve?urn=PPN:389951757</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389952214">https://resolver.kb.nl/resolve?urn=PPN:389952214</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389952222">https://resolver.kb.nl/resolve?urn=PPN:389952222</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389952249">https://resolver.kb.nl/resolve?urn=PPN:389952249</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389952397">https://resolver.kb.nl/resolve?urn=PPN:389952397</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389952451">https://resolver.kb.nl/resolve?urn=PPN:389952451</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389952478">https://resolver.kb.nl/resolve?urn=PPN:389952478</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389952753">https://resolver.kb.nl/resolve?urn=PPN:389952753</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389953652">https://resolver.kb.nl/resolve?urn=PPN:389953652</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389954047">https://resolver.kb.nl/resolve?urn=PPN:389954047</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389954063">https://resolver.kb.nl/resolve?urn=PPN:389954063</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389954497">https://resolver.kb.nl/resolve?urn=PPN:389954497</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389955205">https://resolver.kb.nl/resolve?urn=PPN:389955205</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389955213">https://resolver.kb.nl/resolve?urn=PPN:389955213</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389955221">https://resolver.kb.nl/resolve?urn=PPN:389955221</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389955892">https://resolver.kb.nl/resolve?urn=PPN:389955892</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389955906">https://resolver.kb.nl/resolve?urn=PPN:389955906</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389956864">https://resolver.kb.nl/resolve?urn=PPN:389956864</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389957143">https://resolver.kb.nl/resolve?urn=PPN:389957143</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389957151">https://resolver.kb.nl/resolve?urn=PPN:389957151</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389957747">https://resolver.kb.nl/resolve?urn=PPN:389957747</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389957755">https://resolver.kb.nl/resolve?urn=PPN:389957755</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389957763">https://resolver.kb.nl/resolve?urn=PPN:389957763</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389958603">https://resolver.kb.nl/resolve?urn=PPN:389958603</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389959863">https://resolver.kb.nl/resolve?urn=PPN:389959863</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389959871">https://resolver.kb.nl/resolve?urn=PPN:389959871</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389960586">https://resolver.kb.nl/resolve?urn=PPN:389960586</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389960594">https://resolver.kb.nl/resolve?urn=PPN:389960594</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389961868">https://resolver.kb.nl/resolve?urn=PPN:389961868</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389961876">https://resolver.kb.nl/resolve?urn=PPN:389961876</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389961884">https://resolver.kb.nl/resolve?urn=PPN:389961884</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389961892">https://resolver.kb.nl/resolve?urn=PPN:389961892</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389961906">https://resolver.kb.nl/resolve?urn=PPN:389961906</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389962074">https://resolver.kb.nl/resolve?urn=PPN:389962074</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389963089">https://resolver.kb.nl/resolve?urn=PPN:389963089</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389963097">https://resolver.kb.nl/resolve?urn=PPN:389963097</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389963100">https://resolver.kb.nl/resolve?urn=PPN:389963100</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389963119">https://resolver.kb.nl/resolve?urn=PPN:389963119</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389964468">https://resolver.kb.nl/resolve?urn=PPN:389964468</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389964476">https://resolver.kb.nl/resolve?urn=PPN:389964476</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389964484">https://resolver.kb.nl/resolve?urn=PPN:389964484</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389965510">https://resolver.kb.nl/resolve?urn=PPN:389965510</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389965529">https://resolver.kb.nl/resolve?urn=PPN:389965529</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389965537">https://resolver.kb.nl/resolve?urn=PPN:389965537</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389965545">https://resolver.kb.nl/resolve?urn=PPN:389965545</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389965898">https://resolver.kb.nl/resolve?urn=PPN:389965898</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389966649">https://resolver.kb.nl/resolve?urn=PPN:389966649</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389966657">https://resolver.kb.nl/resolve?urn=PPN:389966657</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389967874">https://resolver.kb.nl/resolve?urn=PPN:389967874</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389967882">https://resolver.kb.nl/resolve?urn=PPN:389967882</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389967890">https://resolver.kb.nl/resolve?urn=PPN:389967890</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389967904">https://resolver.kb.nl/resolve?urn=PPN:389967904</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389967912">https://resolver.kb.nl/resolve?urn=PPN:389967912</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389967939">https://resolver.kb.nl/resolve?urn=PPN:389967939</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389967947">https://resolver.kb.nl/resolve?urn=PPN:389967947</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389967963">https://resolver.kb.nl/resolve?urn=PPN:389967963</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389967971">https://resolver.kb.nl/resolve?urn=PPN:389967971</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389968897">https://resolver.kb.nl/resolve?urn=PPN:389968897</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389968900">https://resolver.kb.nl/resolve?urn=PPN:389968900</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389968935">https://resolver.kb.nl/resolve?urn=PPN:389968935</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389968943">https://resolver.kb.nl/resolve?urn=PPN:389968943</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389970611">https://resolver.kb.nl/resolve?urn=PPN:389970611</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389970638">https://resolver.kb.nl/resolve?urn=PPN:389970638</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389970654">https://resolver.kb.nl/resolve?urn=PPN:389970654</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389970972">https://resolver.kb.nl/resolve?urn=PPN:389970972</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389970999">https://resolver.kb.nl/resolve?urn=PPN:389970999</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389971731">https://resolver.kb.nl/resolve?urn=PPN:389971731</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389971774">https://resolver.kb.nl/resolve?urn=PPN:389971774</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389972614">https://resolver.kb.nl/resolve?urn=PPN:389972614</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389973289">https://resolver.kb.nl/resolve?urn=PPN:389973289</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389973629">https://resolver.kb.nl/resolve?urn=PPN:389973629</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389973637">https://resolver.kb.nl/resolve?urn=PPN:389973637</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389974307">https://resolver.kb.nl/resolve?urn=PPN:389974307</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389974315">https://resolver.kb.nl/resolve?urn=PPN:389974315</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389974323">https://resolver.kb.nl/resolve?urn=PPN:389974323</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389974579">https://resolver.kb.nl/resolve?urn=PPN:389974579</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389975362">https://resolver.kb.nl/resolve?urn=PPN:389975362</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389975680">https://resolver.kb.nl/resolve?urn=PPN:389975680</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389978574">https://resolver.kb.nl/resolve?urn=PPN:389978574</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389978582">https://resolver.kb.nl/resolve?urn=PPN:389978582</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389982857">https://resolver.kb.nl/resolve?urn=PPN:389982857</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389982865">https://resolver.kb.nl/resolve?urn=PPN:389982865</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389983500">https://resolver.kb.nl/resolve?urn=PPN:389983500</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389983519">https://resolver.kb.nl/resolve?urn=PPN:389983519</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389985538">https://resolver.kb.nl/resolve?urn=PPN:389985538</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389986178">https://resolver.kb.nl/resolve?urn=PPN:389986178</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389986186">https://resolver.kb.nl/resolve?urn=PPN:389986186</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389987239">https://resolver.kb.nl/resolve?urn=PPN:389987239</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389987247">https://resolver.kb.nl/resolve?urn=PPN:389987247</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389987255">https://resolver.kb.nl/resolve?urn=PPN:389987255</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389987263">https://resolver.kb.nl/resolve?urn=PPN:389987263</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389989436">https://resolver.kb.nl/resolve?urn=PPN:389989436</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389989444">https://resolver.kb.nl/resolve?urn=PPN:389989444</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389990841">https://resolver.kb.nl/resolve?urn=PPN:389990841</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389990868">https://resolver.kb.nl/resolve?urn=PPN:389990868</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389990876">https://resolver.kb.nl/resolve?urn=PPN:389990876</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389990884">https://resolver.kb.nl/resolve?urn=PPN:389990884</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389995622">https://resolver.kb.nl/resolve?urn=PPN:389995622</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389999164">https://resolver.kb.nl/resolve?urn=PPN:389999164</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389999172">https://resolver.kb.nl/resolve?urn=PPN:389999172</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:389999180">https://resolver.kb.nl/resolve?urn=PPN:389999180</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390001023">https://resolver.kb.nl/resolve?urn=PPN:390001023</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390001031">https://resolver.kb.nl/resolve?urn=PPN:390001031</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390002828">https://resolver.kb.nl/resolve?urn=PPN:390002828</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390002836">https://resolver.kb.nl/resolve?urn=PPN:390002836</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390004308">https://resolver.kb.nl/resolve?urn=PPN:390004308</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390004316">https://resolver.kb.nl/resolve?urn=PPN:390004316</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390004324">https://resolver.kb.nl/resolve?urn=PPN:390004324</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390004901">https://resolver.kb.nl/resolve?urn=PPN:390004901</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390006505">https://resolver.kb.nl/resolve?urn=PPN:390006505</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390006513">https://resolver.kb.nl/resolve?urn=PPN:390006513</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390006521">https://resolver.kb.nl/resolve?urn=PPN:390006521</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390006548">https://resolver.kb.nl/resolve?urn=PPN:390006548</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390008036">https://resolver.kb.nl/resolve?urn=PPN:390008036</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390008044">https://resolver.kb.nl/resolve?urn=PPN:390008044</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390008052">https://resolver.kb.nl/resolve?urn=PPN:390008052</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390008060">https://resolver.kb.nl/resolve?urn=PPN:390008060</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390008087">https://resolver.kb.nl/resolve?urn=PPN:390008087</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390009709">https://resolver.kb.nl/resolve?urn=PPN:390009709</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390009717">https://resolver.kb.nl/resolve?urn=PPN:390009717</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390009725">https://resolver.kb.nl/resolve?urn=PPN:390009725</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390009733">https://resolver.kb.nl/resolve?urn=PPN:390009733</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390009741">https://resolver.kb.nl/resolve?urn=PPN:390009741</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390009784">https://resolver.kb.nl/resolve?urn=PPN:390009784</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390012238">https://resolver.kb.nl/resolve?urn=PPN:390012238</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390015571">https://resolver.kb.nl/resolve?urn=PPN:390015571</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390018953">https://resolver.kb.nl/resolve?urn=PPN:390018953</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390021334">https://resolver.kb.nl/resolve?urn=PPN:390021334</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390021342">https://resolver.kb.nl/resolve?urn=PPN:390021342</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390021350">https://resolver.kb.nl/resolve?urn=PPN:390021350</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390021369">https://resolver.kb.nl/resolve?urn=PPN:390021369</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390022594">https://resolver.kb.nl/resolve?urn=PPN:390022594</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390022608">https://resolver.kb.nl/resolve?urn=PPN:390022608</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390022616">https://resolver.kb.nl/resolve?urn=PPN:390022616</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390022837">https://resolver.kb.nl/resolve?urn=PPN:390022837</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390024619">https://resolver.kb.nl/resolve?urn=PPN:390024619</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390024627">https://resolver.kb.nl/resolve?urn=PPN:390024627</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390024635">https://resolver.kb.nl/resolve?urn=PPN:390024635</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390027278">https://resolver.kb.nl/resolve?urn=PPN:390027278</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390027286">https://resolver.kb.nl/resolve?urn=PPN:390027286</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390027294">https://resolver.kb.nl/resolve?urn=PPN:390027294</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390027308">https://resolver.kb.nl/resolve?urn=PPN:390027308</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390028959">https://resolver.kb.nl/resolve?urn=PPN:390028959</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390028967">https://resolver.kb.nl/resolve?urn=PPN:390028967</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390028975">https://resolver.kb.nl/resolve?urn=PPN:390028975</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390031593">https://resolver.kb.nl/resolve?urn=PPN:390031593</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390034126">https://resolver.kb.nl/resolve?urn=PPN:390034126</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390035688">https://resolver.kb.nl/resolve?urn=PPN:390035688</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390035696">https://resolver.kb.nl/resolve?urn=PPN:390035696</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390035718">https://resolver.kb.nl/resolve?urn=PPN:390035718</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390038733">https://resolver.kb.nl/resolve?urn=PPN:390038733</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390038768">https://resolver.kb.nl/resolve?urn=PPN:390038768</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390038776">https://resolver.kb.nl/resolve?urn=PPN:390038776</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390038784">https://resolver.kb.nl/resolve?urn=PPN:390038784</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390038792">https://resolver.kb.nl/resolve?urn=PPN:390038792</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390038806">https://resolver.kb.nl/resolve?urn=PPN:390038806</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390040614">https://resolver.kb.nl/resolve?urn=PPN:390040614</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390040622">https://resolver.kb.nl/resolve?urn=PPN:390040622</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390040630">https://resolver.kb.nl/resolve?urn=PPN:390040630</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390040649">https://resolver.kb.nl/resolve?urn=PPN:390040649</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390041920">https://resolver.kb.nl/resolve?urn=PPN:390041920</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390043680">https://resolver.kb.nl/resolve?urn=PPN:390043680</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390043699">https://resolver.kb.nl/resolve?urn=PPN:390043699</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390045160">https://resolver.kb.nl/resolve?urn=PPN:390045160</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390045179">https://resolver.kb.nl/resolve?urn=PPN:390045179</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390045187">https://resolver.kb.nl/resolve?urn=PPN:390045187</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390046973">https://resolver.kb.nl/resolve?urn=PPN:390046973</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390046981">https://resolver.kb.nl/resolve?urn=PPN:390046981</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390047783">https://resolver.kb.nl/resolve?urn=PPN:390047783</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390049948">https://resolver.kb.nl/resolve?urn=PPN:390049948</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390049956">https://resolver.kb.nl/resolve?urn=PPN:390049956</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390051233">https://resolver.kb.nl/resolve?urn=PPN:390051233</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390052566">https://resolver.kb.nl/resolve?urn=PPN:390052566</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390052574">https://resolver.kb.nl/resolve?urn=PPN:390052574</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390054798">https://resolver.kb.nl/resolve?urn=PPN:390054798</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390056359">https://resolver.kb.nl/resolve?urn=PPN:390056359</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390057568">https://resolver.kb.nl/resolve?urn=PPN:390057568</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390057576">https://resolver.kb.nl/resolve?urn=PPN:390057576</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390057584">https://resolver.kb.nl/resolve?urn=PPN:390057584</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390057592">https://resolver.kb.nl/resolve?urn=PPN:390057592</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390071897">https://resolver.kb.nl/resolve?urn=PPN:390071897</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390071986">https://resolver.kb.nl/resolve?urn=PPN:390071986</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390072036">https://resolver.kb.nl/resolve?urn=PPN:390072036</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390072699">https://resolver.kb.nl/resolve?urn=PPN:390072699</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390095273">https://resolver.kb.nl/resolve?urn=PPN:390095273</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390095931">https://resolver.kb.nl/resolve?urn=PPN:390095931</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390115045">https://resolver.kb.nl/resolve?urn=PPN:390115045</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390122513">https://resolver.kb.nl/resolve?urn=PPN:390122513</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390122521">https://resolver.kb.nl/resolve?urn=PPN:390122521</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390124281">https://resolver.kb.nl/resolve?urn=PPN:390124281</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390124354">https://resolver.kb.nl/resolve?urn=PPN:390124354</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390125938">https://resolver.kb.nl/resolve?urn=PPN:390125938</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390125946">https://resolver.kb.nl/resolve?urn=PPN:390125946</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390125954">https://resolver.kb.nl/resolve?urn=PPN:390125954</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390125962">https://resolver.kb.nl/resolve?urn=PPN:390125962</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390126918">https://resolver.kb.nl/resolve?urn=PPN:390126918</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390126926">https://resolver.kb.nl/resolve?urn=PPN:390126926</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390128031">https://resolver.kb.nl/resolve?urn=PPN:390128031</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390130451">https://resolver.kb.nl/resolve?urn=PPN:390130451</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390131547">https://resolver.kb.nl/resolve?urn=PPN:390131547</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390131555">https://resolver.kb.nl/resolve?urn=PPN:390131555</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390132772">https://resolver.kb.nl/resolve?urn=PPN:390132772</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390134031">https://resolver.kb.nl/resolve?urn=PPN:390134031</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390134961">https://resolver.kb.nl/resolve?urn=PPN:390134961</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390134988">https://resolver.kb.nl/resolve?urn=PPN:390134988</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390135569">https://resolver.kb.nl/resolve?urn=PPN:390135569</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390136654">https://resolver.kb.nl/resolve?urn=PPN:390136654</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390136662">https://resolver.kb.nl/resolve?urn=PPN:390136662</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390136689">https://resolver.kb.nl/resolve?urn=PPN:390136689</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390139688">https://resolver.kb.nl/resolve?urn=PPN:390139688</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390139785">https://resolver.kb.nl/resolve?urn=PPN:390139785</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390140546">https://resolver.kb.nl/resolve?urn=PPN:390140546</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390140554">https://resolver.kb.nl/resolve?urn=PPN:390140554</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390141186">https://resolver.kb.nl/resolve?urn=PPN:390141186</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390143332">https://resolver.kb.nl/resolve?urn=PPN:390143332</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390147184">https://resolver.kb.nl/resolve?urn=PPN:390147184</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390147923">https://resolver.kb.nl/resolve?urn=PPN:390147923</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390148334">https://resolver.kb.nl/resolve?urn=PPN:390148334</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390149268">https://resolver.kb.nl/resolve?urn=PPN:390149268</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390149349">https://resolver.kb.nl/resolve?urn=PPN:390149349</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390150509">https://resolver.kb.nl/resolve?urn=PPN:390150509</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390152307">https://resolver.kb.nl/resolve?urn=PPN:390152307</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390154350">https://resolver.kb.nl/resolve?urn=PPN:390154350</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390155004">https://resolver.kb.nl/resolve?urn=PPN:390155004</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390155012">https://resolver.kb.nl/resolve?urn=PPN:390155012</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390157775">https://resolver.kb.nl/resolve?urn=PPN:390157775</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390157783">https://resolver.kb.nl/resolve?urn=PPN:390157783</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390165417">https://resolver.kb.nl/resolve?urn=PPN:390165417</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390167096">https://resolver.kb.nl/resolve?urn=PPN:390167096</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390168025">https://resolver.kb.nl/resolve?urn=PPN:390168025</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390168890">https://resolver.kb.nl/resolve?urn=PPN:390168890</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390170666">https://resolver.kb.nl/resolve?urn=PPN:390170666</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390171018">https://resolver.kb.nl/resolve?urn=PPN:390171018</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390172154">https://resolver.kb.nl/resolve?urn=PPN:390172154</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390172162">https://resolver.kb.nl/resolve?urn=PPN:390172162</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390173231">https://resolver.kb.nl/resolve?urn=PPN:390173231</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390175528">https://resolver.kb.nl/resolve?urn=PPN:390175528</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390176141">https://resolver.kb.nl/resolve?urn=PPN:390176141</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390177784">https://resolver.kb.nl/resolve?urn=PPN:390177784</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390179507">https://resolver.kb.nl/resolve?urn=PPN:390179507</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390179515">https://resolver.kb.nl/resolve?urn=PPN:390179515</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390184780">https://resolver.kb.nl/resolve?urn=PPN:390184780</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390187410">https://resolver.kb.nl/resolve?urn=PPN:390187410</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390190209">https://resolver.kb.nl/resolve?urn=PPN:390190209</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390190217">https://resolver.kb.nl/resolve?urn=PPN:390190217</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390192074">https://resolver.kb.nl/resolve?urn=PPN:390192074</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390193607">https://resolver.kb.nl/resolve?urn=PPN:390193607</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390196053">https://resolver.kb.nl/resolve?urn=PPN:390196053</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390196061">https://resolver.kb.nl/resolve?urn=PPN:390196061</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390199230">https://resolver.kb.nl/resolve?urn=PPN:390199230</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390199249">https://resolver.kb.nl/resolve?urn=PPN:390199249</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390199257">https://resolver.kb.nl/resolve?urn=PPN:390199257</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390200956">https://resolver.kb.nl/resolve?urn=PPN:390200956</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390247790">https://resolver.kb.nl/resolve?urn=PPN:390247790</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390249424">https://resolver.kb.nl/resolve?urn=PPN:390249424</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390250767">https://resolver.kb.nl/resolve?urn=PPN:390250767</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390332984">https://resolver.kb.nl/resolve?urn=PPN:390332984</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390332992">https://resolver.kb.nl/resolve?urn=PPN:390332992</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390336688">https://resolver.kb.nl/resolve?urn=PPN:390336688</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390339083">https://resolver.kb.nl/resolve?urn=PPN:390339083</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390340731">https://resolver.kb.nl/resolve?urn=PPN:390340731</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390341134">https://resolver.kb.nl/resolve?urn=PPN:390341134</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390346055">https://resolver.kb.nl/resolve?urn=PPN:390346055</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390346063">https://resolver.kb.nl/resolve?urn=PPN:390346063</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390346071">https://resolver.kb.nl/resolve?urn=PPN:390346071</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390348953">https://resolver.kb.nl/resolve?urn=PPN:390348953</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390350567">https://resolver.kb.nl/resolve?urn=PPN:390350567</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390352128">https://resolver.kb.nl/resolve?urn=PPN:390352128</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390354163">https://resolver.kb.nl/resolve?urn=PPN:390354163</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390354252">https://resolver.kb.nl/resolve?urn=PPN:390354252</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390356026">https://resolver.kb.nl/resolve?urn=PPN:390356026</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390359068">https://resolver.kb.nl/resolve?urn=PPN:390359068</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390360376">https://resolver.kb.nl/resolve?urn=PPN:390360376</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390362948">https://resolver.kb.nl/resolve?urn=PPN:390362948</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390362956">https://resolver.kb.nl/resolve?urn=PPN:390362956</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390364029">https://resolver.kb.nl/resolve?urn=PPN:390364029</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390364037">https://resolver.kb.nl/resolve?urn=PPN:390364037</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390369225">https://resolver.kb.nl/resolve?urn=PPN:390369225</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390369233">https://resolver.kb.nl/resolve?urn=PPN:390369233</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390370169">https://resolver.kb.nl/resolve?urn=PPN:390370169</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390370177">https://resolver.kb.nl/resolve?urn=PPN:390370177</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390370185">https://resolver.kb.nl/resolve?urn=PPN:390370185</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390371661">https://resolver.kb.nl/resolve?urn=PPN:390371661</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390373508">https://resolver.kb.nl/resolve?urn=PPN:390373508</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390373516">https://resolver.kb.nl/resolve?urn=PPN:390373516</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390376493">https://resolver.kb.nl/resolve?urn=PPN:390376493</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390376507">https://resolver.kb.nl/resolve?urn=PPN:390376507</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390432806">https://resolver.kb.nl/resolve?urn=PPN:390432806</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390434388">https://resolver.kb.nl/resolve?urn=PPN:390434388</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390434396">https://resolver.kb.nl/resolve?urn=PPN:390434396</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390436399">https://resolver.kb.nl/resolve?urn=PPN:390436399</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390438227">https://resolver.kb.nl/resolve?urn=PPN:390438227</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390440647">https://resolver.kb.nl/resolve?urn=PPN:390440647</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390446661">https://resolver.kb.nl/resolve?urn=PPN:390446661</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390454419">https://resolver.kb.nl/resolve?urn=PPN:390454419</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390454435">https://resolver.kb.nl/resolve?urn=PPN:390454435</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390455490">https://resolver.kb.nl/resolve?urn=PPN:390455490</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390456055">https://resolver.kb.nl/resolve?urn=PPN:390456055</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390458058">https://resolver.kb.nl/resolve?urn=PPN:390458058</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390458066">https://resolver.kb.nl/resolve?urn=PPN:390458066</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390458902">https://resolver.kb.nl/resolve?urn=PPN:390458902</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390460060">https://resolver.kb.nl/resolve?urn=PPN:390460060</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390460079">https://resolver.kb.nl/resolve?urn=PPN:390460079</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390461903">https://resolver.kb.nl/resolve?urn=PPN:390461903</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390464279">https://resolver.kb.nl/resolve?urn=PPN:390464279</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390466026">https://resolver.kb.nl/resolve?urn=PPN:390466026</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390470058">https://resolver.kb.nl/resolve?urn=PPN:390470058</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390470783">https://resolver.kb.nl/resolve?urn=PPN:390470783</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390474630">https://resolver.kb.nl/resolve?urn=PPN:390474630</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390474894">https://resolver.kb.nl/resolve?urn=PPN:390474894</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390475300">https://resolver.kb.nl/resolve?urn=PPN:390475300</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390477508">https://resolver.kb.nl/resolve?urn=PPN:390477508</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390478148">https://resolver.kb.nl/resolve?urn=PPN:390478148</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390478156">https://resolver.kb.nl/resolve?urn=PPN:390478156</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390478164">https://resolver.kb.nl/resolve?urn=PPN:390478164</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390478717">https://resolver.kb.nl/resolve?urn=PPN:390478717</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390478725">https://resolver.kb.nl/resolve?urn=PPN:390478725</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390479160">https://resolver.kb.nl/resolve?urn=PPN:390479160</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390479802">https://resolver.kb.nl/resolve?urn=PPN:390479802</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390480487">https://resolver.kb.nl/resolve?urn=PPN:390480487</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390480584">https://resolver.kb.nl/resolve?urn=PPN:390480584</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:390481084">https://resolver.kb.nl/resolve?urn=PPN:390481084</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:31092197X">https://resolver.kb.nl/resolve?urn=PPN:31092197X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:31092572X">https://resolver.kb.nl/resolve?urn=PPN:31092572X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:38995067X">https://resolver.kb.nl/resolve?urn=PPN:38995067X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:38995649X">https://resolver.kb.nl/resolve?urn=PPN:38995649X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:38996185X">https://resolver.kb.nl/resolve?urn=PPN:38996185X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:38996588X">https://resolver.kb.nl/resolve?urn=PPN:38996588X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:38996896X">https://resolver.kb.nl/resolve?urn=PPN:38996896X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:38997062X">https://resolver.kb.nl/resolve?urn=PPN:38997062X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:38997577X">https://resolver.kb.nl/resolve?urn=PPN:38997577X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:38998132X">https://resolver.kb.nl/resolve?urn=PPN:38998132X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:38998552X">https://resolver.kb.nl/resolve?urn=PPN:38998552X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:38998616X">https://resolver.kb.nl/resolve?urn=PPN:38998616X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:38998941X">https://resolver.kb.nl/resolve?urn=PPN:38998941X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:38999085X">https://resolver.kb.nl/resolve?urn=PPN:38999085X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39000281X">https://resolver.kb.nl/resolve?urn=PPN:39000281X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39000653X">https://resolver.kb.nl/resolve?urn=PPN:39000653X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39000801X">https://resolver.kb.nl/resolve?urn=PPN:39000801X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39002726X">https://resolver.kb.nl/resolve?urn=PPN:39002726X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39003570X">https://resolver.kb.nl/resolve?urn=PPN:39003570X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39003875X">https://resolver.kb.nl/resolve?urn=PPN:39003875X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39004699X">https://resolver.kb.nl/resolve?urn=PPN:39004699X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39004993X">https://resolver.kb.nl/resolve?urn=PPN:39004993X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39005478X">https://resolver.kb.nl/resolve?urn=PPN:39005478X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39009563X">https://resolver.kb.nl/resolve?urn=PPN:39009563X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39012429X">https://resolver.kb.nl/resolve?urn=PPN:39012429X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39012690X">https://resolver.kb.nl/resolve?urn=PPN:39012690X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39012804X">https://resolver.kb.nl/resolve?urn=PPN:39012804X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39013497X">https://resolver.kb.nl/resolve?urn=PPN:39013497X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39014228X">https://resolver.kb.nl/resolve?urn=PPN:39014228X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39016710X">https://resolver.kb.nl/resolve?urn=PPN:39016710X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39017324X">https://resolver.kb.nl/resolve?urn=PPN:39017324X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39018103X">https://resolver.kb.nl/resolve?urn=PPN:39018103X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39033300X">https://resolver.kb.nl/resolve?urn=PPN:39033300X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39033782X">https://resolver.kb.nl/resolve?urn=PPN:39033782X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39034608X">https://resolver.kb.nl/resolve?urn=PPN:39034608X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39035905X">https://resolver.kb.nl/resolve?urn=PPN:39035905X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39036486X">https://resolver.kb.nl/resolve?urn=PPN:39036486X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39036682X">https://resolver.kb.nl/resolve?urn=PPN:39036682X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39043311X">https://resolver.kb.nl/resolve?urn=PPN:39043311X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39043437X">https://resolver.kb.nl/resolve?urn=PPN:39043437X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39043440X">https://resolver.kb.nl/resolve?urn=PPN:39043440X</a></li>
+<li><a href="https://resolver.kb.nl/resolve?urn=PPN:39044667X">https://resolver.kb.nl/resolve?urn=PPN:39044667X</a></li>
+</ul>
