@@ -1,3 +1,5 @@
+<html>
+<body>
 <ul>
 <li><a href="https://resolver.kb.nl/resolve?urn=PPN:310919347">https://resolver.kb.nl/resolve?urn=PPN:310919347</a></li>
 <li><a href="https://resolver.kb.nl/resolve?urn=PPN:310921546">https://resolver.kb.nl/resolve?urn=PPN:310921546</a></li>
@@ -382,3 +384,5 @@
 <li><a href="https://resolver.kb.nl/resolve?urn=PPN:39043440X">https://resolver.kb.nl/resolve?urn=PPN:39043440X</a></li>
 <li><a href="https://resolver.kb.nl/resolve?urn=PPN:39044667X">https://resolver.kb.nl/resolve?urn=PPN:39044667X</a></li>
 </ul>
+</body>
+</html>
